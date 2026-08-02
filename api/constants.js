@@ -65,15 +65,12 @@ export const adminPanelMessage = `👑 𝗔𝗱𝗺𝗶𝗻 𝗣𝗮𝗻𝗲𝗹
 // ══════════════════════════════════════════════════════════════
 
 // ---- FEATURE: /about bot info + character lore ----
-export const aboutMessage = `🤖 <a href='https://github.com/TechifyBots/Auto-Reaction-Bot'>𝗥𝗲𝗮𝗰𝘁𝗶𝗼𝗻 𝗕𝗼𝘁</a> 𝖼𝗋𝖺𝖿𝗍𝖾𝖽 𝖻𝗒 <b>𝘙𝘢𝘩𝘶𝘭</b> 𝗎𝗌𝗂𝗇𝗀 <b>Node.js</b> & <b>Express</b> — 𝖽𝖾𝗌𝗂𝗀𝗇𝖾𝖽 𝗍𝗈 𝖻𝗋𝗂𝗇𝗀 𝗌𝗆𝖺𝗋𝗍 𝗋𝖾𝖺𝖼𝗍𝗂𝗈𝗇𝗌, 𝗀𝗋𝗈𝗎𝗉 𝗍𝗈𝗈𝗅𝗌, 𝖺𝗇𝖽 𝖺𝗎𝗍𝗈𝗆𝖺𝗍𝗂𝗈𝗇 𝗂𝗇𝗍𝗈 𝖳𝖾𝗅𝖾𝗀𝗋𝖺𝗆.
+export const aboutMessage = `🤖 <a href='SayaProject'>Sᴀʏᴀ PʀᴏJᴇᴄᴛ 🥀</a> 𝖼𝗋𝖺𝖿𝗍𝖾𝖽 𝖻𝗒 <b>?</b> 𝗎𝗌𝗂𝗇𝗀 <b>Node.js</b> & <b>Express</b> — 𝖽𝖾𝗌𝗂𝗀𝗇𝖾𝖽 𝗍𝗈 𝖻𝗋𝗂𝗇𝗀 𝗌𝗆𝖺𝗋𝗍 𝗋𝖾𝖺𝖼𝗍𝗂𝗈𝗇𝗌, 𝗀𝗋𝗈𝗎𝗉 𝗍𝗈𝗈𝗅𝗌, 𝖺𝗇𝖽 𝖺𝗎𝗍𝗈𝗆𝖺𝗍𝗂𝗈𝗇 𝗂𝗇𝗍𝗈 𝖳𝖾𝗅𝖾𝗀𝗋𝖺𝗆.
 
 𝗧𝗵𝗶𝘀 𝗕𝗼𝘁 𝗪𝗮𝘀 𝗕𝘂𝗶𝗹𝘁 𝗧𝗼 𝗕𝗲 𝗙𝗮𝘀𝘁, 𝗦𝗺𝗮𝗿𝘁, 𝗔𝗻𝗱 𝗦𝗶𝗺𝗽𝗹𝗲 — 𝖿𝗋𝗈𝗆 𝗋𝖾𝖺𝖼𝗍𝗂𝗈𝗇 𝗌𝗒𝗌𝗍𝖾𝗆𝗌 𝗍𝗈 𝗀𝗋𝗈𝗎𝗉 𝗆𝖺𝗇𝖺𝗀𝖾𝗆𝖾𝗇𝗍, 𝖾𝗏𝖾𝗋𝗒𝗍𝗁𝗂𝗇𝗀 𝗂𝗌 𝖽𝖾𝗌𝗂𝗀𝗇𝖾𝖽 𝗍𝗈 𝗆𝖺𝗄𝖾 𝗒𝗈𝗎𝗋 𝖾𝗑𝗉𝖾𝗋𝗂𝖾𝗇𝖼𝖾 𝗌𝗆𝗈𝗈𝗍𝗁 ✨
 
 😶‍🌫️ 𝖳𝗁𝖺𝗇𝗄𝗌 𝖿𝗈𝗋 𝗎𝗌𝗂𝗇𝗀 𝗍𝗁𝖾 𝖻𝗈𝗍.
 
-» 🚀 𝗩𝗲𝗿𝘀𝗶𝗼𝗻: v${VERSION}
-» 🔔 𝗨𝗽𝗱𝗮𝘁𝗲: <b><a href='https://telegram.me/TechifyBots'>Techify Bots</a></b>
-» 💻 𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗲𝗿: <b><a href='https://telegram.me/ImRahulDhankhar'>𝘙𝘢𝘩𝘶𝘭</a></b>`
 
 // ══════════════════════════════════════════════════════════════
 // DONATE MESSAGE
@@ -83,12 +80,6 @@ export const aboutMessage = `🤖 <a href='https://github.com/TechifyBots/Auto-R
 export const donateMessage = `🎁 𝗦𝘂𝗽𝗽𝗼𝗿𝘁 𝗧𝗵𝗲 𝗣𝗿𝗼𝗷𝗲𝗰𝘁
 
 <i>𝖨𝖿 𝗒𝗈𝗎 𝖾𝗇𝗃𝗈𝗒 𝗎𝗌𝗂𝗇𝗀 𝗍𝗁𝗂𝗌 𝖻𝗈𝗍 𝖺𝗇𝖽 𝗐𝖺𝗇𝗍 𝗍𝗈 𝗌𝗎𝗉𝗉𝗈𝗋𝗍 𝗂𝗍𝗌 𝖽𝖾𝗏𝖾𝗅𝗈𝗉𝗆𝖾𝗇𝗍, 𝖺𝗇𝗒 𝖼𝗈𝗇𝗍𝗋𝗂𝖻𝗎𝗍𝗂𝗈𝗇 𝗂𝗌 𝖺𝗉𝗉𝗋𝖾𝖼𝗂𝖺𝗍𝖾𝖽 ✨</i>
-
-💰 𝗗𝗼𝗻𝗮𝘁𝗶𝗼𝗻 𝗗𝗲𝘁𝗮𝗶𝗹𝘀:
-
-🌐 <b>𝗗𝗼𝗻𝗮𝘁𝗲:</b> <a href="https://techifybots.github.io/PayWeb">💝 𝖲𝗎𝗉𝗉𝗈𝗋𝗍</a>
-
-🇮🇳 𝗨𝗣𝗜 𝗜𝗗: <code>RahulDhankhar@UPI</code>
 
 ────────────────
 
